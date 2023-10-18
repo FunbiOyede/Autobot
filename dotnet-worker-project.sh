@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Creating Dotnet Worker Application for $1"
 
 
