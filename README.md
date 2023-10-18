@@ -1,2 +1,2 @@
 # Autobot
-My everyday automation scripts.
+My everyday automation scripts for different projects
